@@ -1,35 +1,35 @@
 
 ## Developer Social Network Platforms ##
 
-GitHub - a web-based hosting service for software development projects.
+[GitHub](https://github.com/) - a web-based hosting service for software development projects.
 
-DEV.TO - a constructive and inclusive social network for software developers.
+[DEV.TO](https://dev.to/) - a constructive and inclusive social network for software developers.
 
-CodePen - a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to
+[CodePen](https://codepen.io/) - a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to
 
-Hashnode - a free developer blogging platform that allows you to publish articles on your own domain and helps you stay connected with a global developer
+[Hashnode](https://hashnode.com/) - a free developer blogging platform that allows you to publish articles on your own domain and helps you stay connected with a global developer
 
-CodeSandbox – an online code editor and prototyping tool that makes creating and sharing web apps faster.
+[CodeSandbox](https://codesandbox.io/) – an online code editor and prototyping tool that makes creating and sharing web apps faster.
 
-StackOverflow - the largest, most trusted online community for developers to learn, share their programming knowledge, and build their careers.
+[StackOverflow](https://stackoverflow.com/) - the largest, most trusted online community for developers to learn, share their programming knowledge, and build their careers.
 
-AngelList - a website for startups, angel investors, and job-seekers looking to work at startups.
+[AngelList](https://angel.co/) - a website for startups, angel investors, and job-seekers looking to work at startups.
 
-CodersRank – a free detailed developer profile.
+[CodersRank](https://codersrank.io/) – a free detailed developer profile.
 
-HackerRank - a leading technical assessment and remote interview solution for hiring developers. 
+[HackerRank](https://www.hackerrank.com/) - a leading technical assessment and remote interview solution for hiring developers. 
 
-Feecodecamp - help people learn to code for free.
+[Feecodecamp](https://www.freecodecamp.org/) - help people learn to code for free.
 
-Snipplr - a place to keep code snippets store and share all of your commonly used pieces of code and HTML with other programmers and designers.
+[Snipplr](https://snipplr.com/) - a place to keep code snippets store and share all of your commonly used pieces of code and HTML with other programmers and designers.
 
 [GitLab](https://about.gitlab.com/) - the DevOps Platform that provides a Git repository manager providing wiki, issue-tracking and continuous integration and deployment pipeline features.
 
-Facebook - A lot of developers use it nowadays to connect with others by joining different Facebook groups
+[Facebook](https://www.facebook.com/groups/fbdevelopers/) - A lot of developers use it nowadays to connect with others by joining different Facebook groups
 
-WhatsApp groups - the speed of getting answers is the biggest advantage, developers can get the latest updates and useful info from the relevant community
+[WhatsApp groups](https://whatsapp.com/) - the speed of getting answers is the biggest advantage, developers can get the latest updates and useful info from the relevant community
 
-Instagram - the vast majority of developers love to use Instagram in their spare time 
+[Instagram](https://www.instagram.com/developergroup.in) - the vast majority of developers love to use Instagram in their spare time 
 
 Twitter -  influencers start discussions, they followers to join in and share their views on various topics. By joining/following discussions, developers connect with each other 
 
