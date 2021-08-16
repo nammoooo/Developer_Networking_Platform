@@ -23,7 +23,7 @@ Feecodecamp - help people learn to code for free.
 
 Snipplr - a place to keep code snippets store and share all of your commonly used pieces of code and HTML with other programmers and designers.
 
-GitLab - the DevOps Platform that provides a Git repository manager providing wiki, issue-tracking and continuous integration and deployment pipeline features.
+GitLab https://about.gitlab.com/ - the DevOps Platform that provides a Git repository manager providing wiki, issue-tracking and continuous integration and deployment pipeline features.
 
 Facebook - A lot of developers use it nowadays to connect with others by joining different Facebook groups
 
