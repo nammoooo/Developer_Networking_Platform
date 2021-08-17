@@ -1,5 +1,5 @@
 
-## Developer Social Network Platforms ##
+## Developer - Social Network Platforms ##
 
 [GitHub](https://github.com/) - a web-based hosting service for software development projects.
 
