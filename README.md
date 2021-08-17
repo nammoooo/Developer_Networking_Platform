@@ -21,7 +21,7 @@
 
 [Feecodecamp](https://www.freecodecamp.org/) - help people learn to code for free.
 
-[Snipplr](https://snipplr.com/) - a place to keep code snippets store and share all of your commonly used pieces of code and HTML with other programmers and designers.
+[Snipplr](https://snipplr.com/) - a place to keep code snippets, store and share all of your commonly used pieces of code and HTML with other programmers and designers.
 
 [GitLab](https://about.gitlab.com/) - the DevOps Platform that provides a Git repository manager providing wiki, issue-tracking and continuous integration and deployment pipeline features.
 
@@ -31,13 +31,13 @@
 
 [Instagram](https://www.instagram.com/developergroup.in) - the vast majority of developers love to use Instagram in their spare time 
 
-Twitter -  influencers start discussions, they followers to join in and share their views on various topics. By joining/following discussions, developers connect with each other 
+[Twitter](https://followerwonk.com/) -  influencers start discussions, they ask followers to join in and share their views on various topics. By joining/following discussions, developers connect with each other 
 
-YouTube - developers use it to interact with other developers, to find solutions for the issues they encountered and to offer their original content.
+[YouTube](https://developers.google.com/youtube) - developers use it to interact with other developers, to find solutions for the issues they encountered and to offer their original content.
 
-Reddit - the most popular social network for developers - related to specific topics, such as different programming languages and frameworks.
+[Reddit](https://www.reddit.com/) - the most popular social network for developers - related to specific topics, such as different programming languages and frameworks.
 
-Forums - Some of the most popular forums - CodeProject, XDA developers, Apple developer forum, salesforce developer forums, Drupal forum or WordPress forum etc.
+[Forums](https://developer.apple.com/forums/) - Some of the most popular forums - CodeProject, XDA developers, Apple developer forum, salesforce developer forums, Drupal forum or WordPress forum etc.
 
 
 
