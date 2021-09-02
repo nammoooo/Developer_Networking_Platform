@@ -23,7 +23,7 @@
 
 
 
-
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nammoooo&repo=Developer_Networking_Platform)
 
 
 
