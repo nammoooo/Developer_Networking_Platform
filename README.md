@@ -1,5 +1,5 @@
 
-## Developer - Social Network Platforms ##
+## Developer - Social Communities/Platforms ##
 
 - [GitHub](https://github.com/) - a web-based hosting service for software development projects. <br />
 - [DEV.TO](https://dev.to/) - a constructive and inclusive social network for software developers. <br />
